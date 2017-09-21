@@ -1,0 +1,54 @@
+body {
+	background-color: #BDD358;
+}
+
+img {
+	border-radius: 3px;
+}
+
+header {
+	font-size: 30px;
+	text-align: center;
+	font-family: fantasy;
+}
+
+nav {
+	font-size: 20px;
+	text-align: center;
+	font-family: monospace;
+	padding: 5px;
+	border: 5px solid black;
+}
+
+p {
+	margin: 10px 10px;
+}
+
+#about {
+	padding: 75px;
+}
+
+#future {
+	padding: 75px;
+}
+
+.writeup {
+	font-size: 14px;
+	text-align: justify;
+	font-family: monospace;
+}
+
+#family {
+	text-align: center;
+	padding: 20px;
+	float: left;
+}
+
+#gif {
+	text-align: center;
+	padding: 20px;
+}
+
+#headline {
+	font-family: fantasy;
+}
